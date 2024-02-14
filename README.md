@@ -1,5 +1,5 @@
 # 💫 About Me:
-Always learning!
+Always learning! I want to know how everything works and why.
 
 
 # 💻 Tech Stack:
@@ -7,7 +7,6 @@ Always learning!
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iyilmaz24&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iyilmaz24&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
