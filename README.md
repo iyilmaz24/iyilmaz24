@@ -5,7 +5,6 @@
 
 - 🌱 At work, I build with **Next.js, React, Type/JavaScript, Tailwind, SASS, Java, and Spring**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -55,4 +54,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyilmaz24&show_icons=true&locale=en&layout=compact" alt="iyilmaz24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyilmaz24&show_icons=true&locale=en&layout=compact" alt="iyilmaz24" /></p>
