@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Irfan Yilmaz</h1>
+<h1 align="left">Hello, I'm Irfan</h1>
 <h3 align="left">A full-stack developer, based in Florida</h3>
 
 - 🔭 At school, im working on **machine learning research**
