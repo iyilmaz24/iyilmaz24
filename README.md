@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Irfan</h1>
-<h3 align="left">A software developer, based in Florida</h3>
+<h3 align="left">A software developer, based in Sunnyvale, California</h3>
 
 
 
